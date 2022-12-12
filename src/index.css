@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  height: 100vh;
+  background: black;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+#movieApp {
+  max-width: 100vw;
+  max-height: 100vh;
+  background-color: black;
+}
+.navbarr {
+  width: 100%;
+  height: 30%;
+}
+.moviegener {
+  width: 100%;
+  max-height: 20%;
+}
+.main {
+  width: 100%;
+  max-height: 60%;
+  background-color: rgb(9, 8, 8);
+}
+.footerNav {
+  width: 100%;
+  height: 100px;
+  background-color: black;
+}
